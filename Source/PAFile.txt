@@ -6,4 +6,7 @@ Add Second Line
 
 	This is a modification from branch1
 
+This change is made in gitplay-copy repo
+
 Modify from gitplay repo after gitplay-copy pushed sth.
+
